@@ -2,15 +2,15 @@
 
 This program implements the **Merge Sort** algorithm and measures the time it takes to sort an array.
 
-##Step 1: Compile the Code
+## Step 1: Compile the Code
 
 g++ mergesort.cpp -o mergesort
 
-##Step 2: Run
+## Step 2: Run
 
 ./mergesort
 
-##Step 3: Input
+## Step 3: Input
 
 The program will prompt you to input the size of the array you'd like to sort. After entering the size, the program will:
 
@@ -21,7 +21,7 @@ Display the sorted array.
 Display the time taken to sort the array (in seconds).
 
 
-###Example Output:
+### Example Output:
 
 Enter the size of your array: 10
 You inputted: 10
