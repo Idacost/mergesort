@@ -1,0 +1,27 @@
+Size: 10
+Enter the size of your array: You inputted: 10
+Time elapsed: 0.00000600 seconds
+Size: 100
+Enter the size of your array: You inputted: 100
+Time elapsed: 0.00004500 seconds
+Size: 1000
+Enter the size of your array: You inputted: 1000
+Time elapsed: 0.00048600 seconds
+Size: 10000
+Enter the size of your array: You inputted: 10000
+Time elapsed: 0.00527500 seconds
+Size: 100000
+Enter the size of your array: You inputted: 100000
+Time elapsed: 0.05749200 seconds
+Size: 1000000
+Enter the size of your array: You inputted: 1000000
+Time elapsed: 0.61603600 seconds
+Size: 10000000
+Enter the size of your array: You inputted: 10000000
+Time elapsed: 6.66446100 seconds
+Size: 100000000
+Enter the size of your array: You inputted: 100000000
+Time elapsed: 71.58819600 seconds
+Size: 1000000000
+Enter the size of your array: You inputted: 1000000000
+Time elapsed: 763.48784700 seconds
